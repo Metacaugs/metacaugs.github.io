@@ -5,6 +5,7 @@ permalink: /lexicon/
 icon: th-list
 type: page
 ---
+
 * content
 {:toc}
 
