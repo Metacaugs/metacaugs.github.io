@@ -1,6 +1,5 @@
 ---
 layout: lexicon
-title:  "Affordance"
 categories: test
 tags:  test
 ---
