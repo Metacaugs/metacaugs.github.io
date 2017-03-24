@@ -14,5 +14,4 @@ type: page
         <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
     </div>
 {% endfor %}
-
 ## B
