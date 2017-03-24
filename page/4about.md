@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-permalink:
+permalink: /about/
 icon: heart
 type: page
 ---
