@@ -6,9 +6,6 @@ icon: heart
 type: page
 ---
 
-[//]: # (This is a comment // * content )
-[//]: # (This is a comment // {:toc} )
-
 Fill this in with a general explaination of whats going on... once that coalesces.)
 
 ## Contact Us / Get Involved
