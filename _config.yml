@@ -59,4 +59,3 @@ paginate: 6
 collections:
   lexicon:
     output: true
-    permalink: /:path/:title.:output_ext
