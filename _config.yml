@@ -57,4 +57,4 @@ gems: [jekyll-paginate]
 paginate: 6
 
 collections:
-- Lexicon
+- lexicon
