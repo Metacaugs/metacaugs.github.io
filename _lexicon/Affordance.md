@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "Affordance"
-categories: Lexicon
-tags:  
+categories: test
+tags:  test
 author: Rob
 ---
 
