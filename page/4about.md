@@ -15,7 +15,7 @@ Fill this in with a general explaination of whats going on... once that coalesce
 
 ## Contact Us / Get Involved
 
-Want to get involved? [Join our slack!](www.bit.ly/metacaugs)
+Want to get involved? [Join our slack!](https://metacaugs.herokuapp.com/)
 
 ## Comments
 
