@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Affordance"
+title:  "An Initial Blog Post"
 categories: Blog
 tags:  
 author: Robert Best
