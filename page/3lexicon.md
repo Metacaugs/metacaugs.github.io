@@ -2,6 +2,7 @@
 layout: page
 title: Lexicon
 icon: th-list
+type: page
 ---
 
 {% for item in site.lexicon %}
