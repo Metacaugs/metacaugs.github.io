@@ -10,6 +10,6 @@ type: page
 
 {% for item in site.lexicon %}
   <div class="lexicon">
-    <h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
+    ## <a href="{{ item.url }}">{{ item.title }}</a>
   </div>
 {% endfor %}
