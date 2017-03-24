@@ -5,4 +5,10 @@ permalink: /lexicon/
 icon: th-list
 type: page
 ---
-test
+
+{% for item in site.lexicon %}
+  <div class="lexicon">
+    <h2>{{ item.title }}</h2>
+    {{ item.content }}
+  </div>
+{% endfor %}
