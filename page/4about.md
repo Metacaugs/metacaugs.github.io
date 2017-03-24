@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 icon: heart
 type: page
@@ -9,9 +9,7 @@ type: page
 * content
 {:toc}
 
-## About Us
-
-Fill this in with a general explaination of whats going on... once that coalesces.
+[//]: # (This may be the most platform independent comment - Fill this in with a general explaination of whats going on... once that coalesces.)
 
 ## Contact Us / Get Involved
 
