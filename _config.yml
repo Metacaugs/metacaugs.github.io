@@ -58,5 +58,4 @@ paginate: 6
 
 collections:
   lexicon:
-    output: true
-    permalink: /lexicon/
+    permalink: /lexicon/:path/:title.:output_ext
