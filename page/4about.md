@@ -6,10 +6,10 @@ icon: heart
 type: page
 ---
 
-* content
-{:toc}
+[//]: # (This is a comment // * content )
+[//]: # (This is a comment // {:toc} )
 
-[//]: # (This may be the most platform independent comment - Fill this in with a general explaination of whats going on... once that coalesces.)
+Fill this in with a general explaination of whats going on... once that coalesces.)
 
 ## Contact Us / Get Involved
 
