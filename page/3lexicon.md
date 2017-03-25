@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-{% for char in ["a","b","c"] %}
+{% for char in 0..5 %}
 <div class="letter">
 {{char}}
 </div>
