@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-{% for char in [*('0'..'9'),*('a'..'z')] %}
+{% for char in ["a","b","c"] %}
 <div class="letter">
 {{char}}
 </div>
