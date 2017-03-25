@@ -11,7 +11,7 @@ type: page
 
 {% for char in 0..5 %}
 <div class="letter">
-{{char}}
+{{ char }}
 </div>
 {% endfor %}
 
