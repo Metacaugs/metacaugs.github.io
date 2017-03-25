@@ -2,8 +2,8 @@ To create a new lexicon page, just create a new Markdown file here on GitHub in 
 ```
 ---
 layout: lexicon
-title: Affordance
-categories: test
-tags:  test
+title: [insert page title here]
+categories: [insert categories here]
+tags:  [insert tags here]
 ---
 ```
