@@ -8,6 +8,11 @@ type: page
 
 * content
 {:toc}
+{% for char in [*('0'..'9'),*('a'..'z')] %}
+<div class="letter">
+{{char}}
+</div>
+{% endfor %}
 
 {% for item in site.lexicon %}
   <div class="lexicon">
