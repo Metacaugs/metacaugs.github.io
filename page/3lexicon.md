@@ -8,6 +8,7 @@ type: page
 
 * content
 {:toc}
+
 {% for char in [*('0'..'9'),*('a'..'z')] %}
 <div class="letter">
 {{char}}
