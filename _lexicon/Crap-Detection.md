@@ -1,3 +1,10 @@
+---
+layout: lexicon
+title: "Crap Detection"
+categories: lexicon
+tags:  
+---
+
 Crap detection is a set of skills enabling us to tell accurate information from inaccurate information, misinformation, and disinformation. Howard Rheingold offers a [course in crap detection](http://rheingold.com/2013/crap-detection-mini-course/).
 
 ### References 
