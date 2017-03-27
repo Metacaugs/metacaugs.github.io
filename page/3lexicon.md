@@ -13,10 +13,12 @@ type: page
 ### A
 {% for item in site.lexicon %}
   {% if item.title | split: "" | first | upcase == 'A' %}
+  Good
+    {% endif %}
     <div class="lexicon">
       <a href="{{ item.url }}">{{ item.title }}</a>
     </div>
-  {% endif %}
+
 {% endfor %}
 ### B
 ### C
