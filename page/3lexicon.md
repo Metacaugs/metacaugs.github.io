@@ -11,6 +11,12 @@ type: page
 
 ### 0-9
 ### A
+{% for item in site.lexicon %}
+  {[item[0]}}
+  <div class="lexicon">
+  <a href="{{ item.url }}">{{ item.title }}</a>
+</div>
+{% endfor %}
 ### B
 ### C
 ### D
@@ -37,11 +43,7 @@ type: page
 ### Y
 ### Z
 
-{% for item in site.lexicon %}
-  <div class="lexicon">
-  <a href="{{ item.url }}">{{ item.title }}</a>
-</div>
-{% endfor %}
+
 
 ***
 
