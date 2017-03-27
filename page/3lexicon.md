@@ -9,13 +9,10 @@ type: page
 * content
 {:toc}
 
-# Header
-## Header 2
-
 {% for i in (a..f) %}
-  <div class="lexicon">
-  ## <h1>{{ i }}</h1>
-      </div>
+
+  ## A
+
 {% endfor %}
 
 {% for item in site.lexicon %}
