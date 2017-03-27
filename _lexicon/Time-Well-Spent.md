@@ -1,8 +1,9 @@
 ---
 layout: lexicon
-title: [Time-Well-Spent]
-categories: [lexicon]
-tags:  [insert tags here]
+title: Time-Well-Spent
+categories: lexicon
+tags:
+metamaps_link: https://metamaps.cc/topics/64817
 ---
 
 [Time Well Spent](http://www.timewellspent.io) is a movement to align technology with our humanity. 
@@ -13,3 +14,5 @@ The design principles of such sites and apps only reflect the corporate interest
 
 Harris promotes other design principles, inciting people to have better lives (by spending more time offline). He also 
 want to make people aware of the specific design choices which influence consumers. 
+
+{{ page.metamaps_link}}
