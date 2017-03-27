@@ -11,7 +11,7 @@ type: page
 
 
 {% for i in (1..10) %}
-    {{ i }}
+    <h2>{{ i }}</h2>
 {% endfor %}
 
 {% for item in site.lexicon %}
