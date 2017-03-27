@@ -12,10 +12,10 @@ type: page
 ### 0-9
 ### A
 {% for item in site.lexicon %}
-  {% assign firstLetter = item.title | split: "" | first | upcase %}
-  {% if firstLetter == 'A' %}
-      <a href="{{ item.url }}">{{ item.title }}</a>
-  {% endif %}
+{% assign firstLetter = item.title | split: "" | first | upcase %}
+{% if firstLetter == 'A' %}
+<a href="{{ item.url }}">{{ item.title }}</a>
+{% endif %}
 {% endfor %}
 ### B
 ### C
