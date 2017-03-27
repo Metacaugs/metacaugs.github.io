@@ -11,9 +11,9 @@ type: page
 
 
 {% for i in (1..10) %}
-<div class="lexicon">
+<span class="lexicon">
     ## <h2>{{ i }}</h2>
-</div>
+</span>
 {% endfor %}
 
 {% for item in site.lexicon %}
