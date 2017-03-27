@@ -10,12 +10,12 @@ type: page
 {:toc}
 
 {% for item in "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ" | split:"" %}
-  {{ item }}
+  ## {{ item }}
 {% endfor %}
 
 
 {% for item in site.lexicon %}
   <div class="lexicon">
-  <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+  <a href="{{ item.url }}">{{ item.title }}</a>
 </div>
 {% endfor %}
