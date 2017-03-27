@@ -26,16 +26,16 @@ type: page
 ### N
 ### O
 ### P
-## Q
-## R
-## S
-## T
-## U
-## V
-## W
-## X
-## Y
-## Z
+### Q
+### R
+### S
+### T
+### U
+### V
+### W
+### X
+### Y
+### Z
 
 {% for item in site.lexicon %}
   <div class="lexicon">
