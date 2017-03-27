@@ -12,7 +12,7 @@ Fill this in with a general explaination of whats going on... once that coalesce
 
 ## Contact Us / Get Involved
 
-Want to get involved? [Join our slack!](https://metacaugs.herokuapp.com/)
+Want to get involved? Join our slack! -> <script async defer src="https://metacaugs.herokuapp.com/slackin.js"></script>
 
 ## Comments
 
