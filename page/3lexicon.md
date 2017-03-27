@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-{% for item in {{ "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ" | split:"" }} %}
+{% for item in "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ" | split:"" %}
   {{ item }}
 {% endfor %}
 
