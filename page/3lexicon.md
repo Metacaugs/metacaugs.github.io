@@ -12,7 +12,7 @@ type: page
 ### 0-9
 ### A
 {% for item in site.lexicon %}
-  {{ item.title }}
+  {{ item.title[0] }}
   <div class="lexicon">
   <a href="{{ item.url }}">{{ item.title }}</a>
 </div>
