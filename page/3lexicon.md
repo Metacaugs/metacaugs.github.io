@@ -9,7 +9,10 @@ type: page
 * content
 {:toc}
 
-{{ "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ" | split:"" }}
+{% for item in {{ "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ" | split:"" }} %}
+  {{ item }}
+{% endfor %}
+
 
 {% for item in site.lexicon %}
   <div class="lexicon">
