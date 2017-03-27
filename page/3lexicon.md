@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "METACAUGS | Lexicon"
+title: "Lexicon"
 permalink: /lexicon/
 icon: th-list
 type: page
