@@ -10,7 +10,7 @@ type: page
 {:toc}
 
 
-{% "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ".each_byte do |i| %}
+{% "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").each do |i| %}
  <h1>{{ i.chr }}</h1>
 {% end %}
 
