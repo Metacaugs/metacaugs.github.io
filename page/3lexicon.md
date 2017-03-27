@@ -9,6 +9,10 @@ type: page
 * content
 {:toc}
 
+{% for item in site.lexicon %}
+<a href="{{ item.url }}">{{ item.title }}</a>
+{% endfor %}
+
 ### 0-9
 ### A
 {% for item in site.lexicon %}
