@@ -9,11 +9,10 @@ type: page
 * content
 {:toc}
 
-{% for char in 0..5 %}
-<div class="letter">
-{{ char }}
-</div>
-{% endfor %}
+
+{% "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ".each_byte do |i| %}
+ <h1>{{ i.chr }}</h1>
+{% end %}
 
 {% for item in site.lexicon %}
   <div class="lexicon">
