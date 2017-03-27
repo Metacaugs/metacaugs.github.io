@@ -14,9 +14,7 @@ type: page
 {% for item in site.lexicon %}
   {% assign firstLetter = item.title | split: "" | first | upcase %}
   {% if firstLetter == 'A' %}
-    <div class="lexicon">
       <a href="{{ item.url }}">{{ item.title }}</a>
-    </div>
   {% endif %}
 {% endfor %}
 ### B
