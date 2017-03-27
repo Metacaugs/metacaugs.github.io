@@ -41,3 +41,6 @@ type: page
   <a href="{{ item.url }}">{{ item.title }}</a>
 </div>
 {% endfor %}
+
+
+{% include comments.html %}
