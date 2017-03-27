@@ -10,6 +10,7 @@ type: page
 {:toc}
 
 Contribute to the Lexicon on [Metamaps.cc](https://metamaps.cc/maps/2814)
+
 ***
 
 {% for item in site.lexicon %}
