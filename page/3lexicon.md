@@ -13,11 +13,13 @@ type: page
 ## Header 2
 
 {% for i in (a..f) %}
-    ## {{ i }}
+  <div class="lexicon">
+  ## <h1>{{ i }}</h1>
+      </div>
 {% endfor %}
 
 {% for item in site.lexicon %}
   <div class="lexicon">
     <a href="{{ item.url }}">{{ item.title }}</a>
-  </div>
+
 {% endfor %}
