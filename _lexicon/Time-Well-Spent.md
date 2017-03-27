@@ -14,5 +14,3 @@ The design principles of such sites and apps only reflect the corporate interest
 
 Harris promotes other design principles, inciting people to have better lives (by spending more time offline). He also 
 want to make people aware of the specific design choices which influence consumers. 
-
-{{ page.metamaps_link}}
