@@ -12,8 +12,8 @@ type: page
 # Header
 ## Header 2
 
-{% for i in (1..10) %}
-    ## {{ i.chr }}
+{% for i in (a..f) %}
+    ## {{ i }}
 {% endfor %}
 
 {% for item in site.lexicon %}
