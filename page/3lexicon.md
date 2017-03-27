@@ -12,7 +12,8 @@ type: page
 ### 0-9
 ### A
 {% for item in site.lexicon %}
-  {% if item.title | split: "" | first | upcase == 'A' %}
+  {% assign firstLetter = item.title | split: "" | first | upcase %}
+  {% if firstLetter == 'A' %}
   Good
     {% endif %}
     <div class="lexicon">
