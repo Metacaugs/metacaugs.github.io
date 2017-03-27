@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lexicon
+title: "METACAUGS | Lexicon"
 permalink: /lexicon/
 icon: th-list
 type: page
@@ -16,6 +16,6 @@ type: page
 
 {% for item in site.lexicon %}
   <div class="lexicon">
-    <a href="{{ item.url }}">{{ item.title }}</a>
+    ## <a href="{{ item.url }}">{{ item.title }}</a>
 </div>
 {% endfor %}
