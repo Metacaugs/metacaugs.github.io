@@ -12,7 +12,7 @@ type: page
 
 {% for i in (1..10) %}
 <div class="lexicon">
-    <h1>{{ i }}</h1>
+    ## <h2>{{ i }}</h2>
 </div>
 {% endfor %}
 
