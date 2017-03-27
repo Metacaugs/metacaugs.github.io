@@ -5,7 +5,7 @@ categories: [lexicon]
 tags:  [insert tags here]
 ---
 
-[Time Well Spent](http://www.timewellspent.io/) is a movement to align technology with our humanity. 
+[Time Well Spent](http://www.timewellspent.io) is a movement to align technology with our humanity. 
 The founding father of the movement is [Tristan Harris](http://www.tristanharris.com/). Harris, a 
 philosopher-designer, claims networks such as Facebook and Netflix want to keep us on their properties.
 They are not interested in really making our own time and life better.
