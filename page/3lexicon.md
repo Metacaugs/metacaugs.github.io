@@ -9,6 +9,9 @@ type: page
 * content
 {:toc}
 
+Contribute to the Lexicon on [Metamaps.cc](https://metamaps.cc/maps/2814)
+***
+
 {% for item in site.lexicon %}
 <a href="{{ item.url }}">{{ item.title }}</a>
 {% endfor %}
