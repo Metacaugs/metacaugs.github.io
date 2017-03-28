@@ -1,6 +1,6 @@
 ---
 layout: lexicon
-title: Time-Well-Spent
+title: "Time Well Spent"
 categories: lexicon
 tags:
 metamaps_link: https://metamaps.cc/topics/64817
