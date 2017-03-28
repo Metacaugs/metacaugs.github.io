@@ -1,8 +1,8 @@
 ---
 layout: lexicon
 title: "Scalable Cooperation Research Group"
-categories:lexicon
-tags:research
+categories: lexicon
+tags: research
 metamaps_link:
 ---
 
