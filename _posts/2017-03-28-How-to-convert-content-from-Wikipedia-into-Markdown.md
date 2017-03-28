@@ -3,7 +3,7 @@ layout: post
 title:  "How to convert content from Wikipedia into Markdown"
 categories: Blog
 tags:  
-author: Robert.Best
+author: Robert Best
 ---
 
 It's fairly simple to convert Wikipedia content, including the links, into Markdown.
