@@ -3,7 +3,7 @@ layout: post
 title:  "An Initial Blog Post"
 categories: Blog
 tags:  
-author: Rob
+author: Robert.Best
 ---
 
 * content
