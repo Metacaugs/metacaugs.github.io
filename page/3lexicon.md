@@ -13,15 +13,17 @@ Contribute to the Lexicon on [Metamaps.cc](https://metamaps.cc/maps/2814)
 
 ***
 
-{% for item in site.lexicon %}
-<a href="{{ item.url }}">{{ item.title }}</a>
-{% endfor %}
-
 ### 0-9
-### A
 {% for item in site.lexicon %}
 {% assign firstLetter = item.title | split: "" | first | upcase %}
 {% if firstLetter < 'A' %}
+<a href="{{ item.url }}">{{ item.title }}</a>
+{% endif %}
+{% endfor %}
+### A
+{% for item in site.lexicon %}
+{% assign firstLetter = item.title | split: "" | first | upcase %}
+{% if firstLetter == 'A' %}
 <a href="{{ item.url }}">{{ item.title }}</a>
 {% endif %}
 {% endfor %}
