@@ -4,7 +4,7 @@ To make a blog post, create a new file in this folder and name it something like
 
 How you name the file determines the Title of the post (dashes are converted to spaces), and including the date in the file name is important too. (It won’t show up as a “post” if it isn’t in this format) The .md extension tells Jekyll that this post is written in Markdown.
 
-You also need to include some metadata at the top of you post, here is an example:
+You also need to include some metadata at the top of your post, here is an example:
 ```
 ---
 layout: post
