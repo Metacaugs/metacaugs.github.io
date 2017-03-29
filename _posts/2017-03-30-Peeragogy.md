@@ -77,7 +77,7 @@ So we should take decisions about mindmapping software, forum software, videocon
 for the blogs and lexicon. At this point in time we use GoToMeeting for the conferencing, Slack for the forums, 
 GitHub for lexicon and blogs and MetaMaps for the mindmapping. We also experiment regularly with Qiark as a tool to gather
 and analyze ideas. 
-- ** Linearity vs Messiness**: this whole experience not only allows for feedback and meta-discussions but requires it.
+- **Linearity vs Messiness**: this whole experience not only allows for feedback and meta-discussions but requires it.
 The upside of this is creativity and awareness, the downside a feeling of confusion as there seems to be no real
 leadership and the feeling might be that everything can be questioned all the time. 
 
