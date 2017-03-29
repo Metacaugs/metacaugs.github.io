@@ -15,4 +15,5 @@ type: page
 
 Want to get involved? Join our slack! -> <script async defer src="https://metacaugs.herokuapp.com/slackin.js"></script>
 
+***
 {% include comments.html %}
