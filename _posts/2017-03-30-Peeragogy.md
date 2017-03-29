@@ -3,7 +3,7 @@ layout: post
 title:  "Peeragogy"
 categories: Blog
 tags:
-author:Roland
+author: Roland
 ---
 
 Peeragogy is a flexible framework of techniques for peer learning and peer knowledge production. 
@@ -85,6 +85,3 @@ Please feel free to comment on this project, which is my personal one but also c
 at Metacaugs right now already. We discussed previously a book by Thomas Friedman, Thank You for Being Late, following a lot
 of these patterns. These days we're discussing Whiplash, a book by Joi Ito and Jeff Howe, but as explained we do at 
 lot more than just reading texts. 
-
-
-
