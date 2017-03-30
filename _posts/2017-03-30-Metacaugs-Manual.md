@@ -6,7 +6,6 @@ tags:
 author: Metacaugs
 ---
 
-# Metacaugs Manual
 ## Attention! This is a work in progress.
 
 - Get an invite for [metacaugs.slack.com](https://metacaugs.slack.com/)
