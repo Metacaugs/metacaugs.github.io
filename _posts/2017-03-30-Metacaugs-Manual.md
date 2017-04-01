@@ -23,7 +23,7 @@ Contribute to [this shared Google doc](https://docs.google.com/document/d/1UYhrF
 - [Hackmd](https://hackmd.io/) is a nice way to prepare documents for GitHub or other places. Just like on GitHub the texts are writting in [markdown](https://en.wikipedia.org/wiki/Markdown) - think of it like a simple version of html (it can be converted into html). There are many [cheatsheets for markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and there is one integrated in hackmd (the question mark above your text input field). 
 - Your blogposts will be part of our [Metacaugs blog](https://metacaugs.github.io/) on GitHub. To create your blog you will have to hit **create a new file** [on this page](https://github.com/Metacaugs/metacaugs.github.io/tree/master/_posts). Be sure to read the readme.md file with simple but necessary instructions. 
 - This is our [lexicon on GitHub](https://metacaugs.github.io/lexicon/). To add stuff **create new file** on [this page](https://github.com/Metacaugs/metacaugs.github.io/tree/master/_lexicon), again read the readme.md file. At first some things may go wrong (maybe you'll forget to put .md after the filename, maybe you forgot to leave a space behind a colon in the metadata) - just ask in Slack and people will come to the rescue. 
-- This is a [video tutorial for MetaMaps](https://youtu.be/0Bd8XxlNG3U). 
+- This is a [video tutorial for Metamaps](https://vimeo.com/88334167). 
 
 - There are many other tools and platforms which are being suggested. If you get overwhelmed, focus on the essential ones.
 
