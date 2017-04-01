@@ -8,6 +8,8 @@ author: Metacaugs
 
 ## Attention! This is a work in progress.
 
+Contribute to [this shared Google doc](https://docs.google.com/document/d/1UYhrFJtmYzbRxh9VIVgF1ZQFc1UmQk_NnecT2JCmtl8) for now instead... we will upload a more polished version here to GitHUb once that emerges.... Or at least this will act as a nice link... and you can work from wherever you like  :P
+
 - Get an invite for [metacaugs.slack.com](https://metacaugs.slack.com/)
 - Slack has channels on the left handside. Head to the channel **Introductions** to introduce yourself. Talking about Slack, it's worthwhile to [familiarize yourself with this tool](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users), for instance learning how to filter the information streams on your mobile and laptop computer.
 - The channel **announcements** contains the practical stuff such as when which event takes place and how to get there. 
