@@ -6,4 +6,4 @@ tags: education programming
 metamaps_link: 
 ---
 
-Scratch is a visual programming language for kids and young people, developed at the MIT. 
+[Scratch](https://scratch.mit.edu/) is a visual programming language for kids and young people, developed at the MIT. 
