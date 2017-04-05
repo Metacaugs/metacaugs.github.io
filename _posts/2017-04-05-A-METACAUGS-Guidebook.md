@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "METACAUGS Guidebook"
+title:  "A METACAUGS Guidebook"
 categories: Blog
 tags: 
 author: METACAUGS
