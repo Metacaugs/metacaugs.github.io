@@ -8,9 +8,9 @@ type: page
 * content
 {:toc}
 
-Our [Orientation Guidebook](https://metacaugs.github.io/2017/04/05/A-METACAUGS-Guidebook/) explains a lot about us...
+Our new [Orientation Guidebook](https://metacaugs.github.io/2017/04/05/A-METACAUGS-Guidebook/) explains a lot about us...
 
-**Stuff we do together:**
+Stuff we do together:
 * "synchronous online meetings where we discuss the writings of relevant authors, experiment with tools and platforms, and have meta-discussions about our proceedings." -Roland
 
 **Contact Us / Get Involved**:
