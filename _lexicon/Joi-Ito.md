@@ -3,7 +3,7 @@ layout: lexicon
 title: "Joi Ito"
 categories: lexicon
 tags: authors
-metamaps_link:
+metamaps_link: https://metamaps.cc/topics/65187
 ---
 
 [Joichi "Joi" Ito](https://en.wikipedia.org/wiki/Joi_Ito), born June 19, 1966) is a Japanese activist, entrepreneur, venture capitalist, 
