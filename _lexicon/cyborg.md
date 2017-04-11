@@ -2,7 +2,7 @@
 layout: lexicon
 title: Cyborg
 categories: lexicon
-tags: human posthuman cyborg robotics ai
+tags: posthuman
 metamaps_link:
 ---
 
