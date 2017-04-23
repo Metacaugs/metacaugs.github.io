@@ -71,7 +71,7 @@ Personally I would add a specific methodology: [Lean Canvas](https://leanstack.c
 
 Lean Canvas solves this problem using a 1-page business model that takes under 20 minutes to create.
 
-Search for "Lean Canvas" to find a wealth of tutorials. [Here you find the Canvas document](https://metacaugs.github.io/). 
+Search for "Lean Canvas" to find a wealth of tutorials. [Here you find the Canvas document](https://leanstack.com/LeanCanvas.pdf). 
 
 ## Incubator
 
