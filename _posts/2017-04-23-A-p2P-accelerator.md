@@ -84,7 +84,7 @@ As of yet Metacaugs itself has no formal identity, but we could consider changin
 
 ## Conclusion
 
-Metacougs is in practice evolving into the direction of an accelerator, maybe an incubator. This would be a great way to continue the
+Metacaugs is in practice evolving into the direction of an accelerator, maybe an incubator. This would be a great way to continue the
 work done by Howard Rheingold and his co-learners. The diversity of the Rheingold-alumni made it  until now difficult to leverage the 
 power of the network, but using Slack as our main communication hub and adopting an accelerator methodology, this could change for the better. 
 
