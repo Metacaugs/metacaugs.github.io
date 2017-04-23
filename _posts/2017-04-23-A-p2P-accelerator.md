@@ -21,7 +21,7 @@ by Jeff Howe and Joi Ito.
 
 However, **we do lots of others things** - related, but different and 'owned' by specific members of our group. 
 
-- The [Qiark-project](metamaps.cc) which is 
+- The [Qiark-project](https://www.qiark.com/) which is 
 
 >  a platform that aims to crowdsource answers to questions by amplifying the intelligence and judgment capacity of individuals and groups.
 
