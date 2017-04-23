@@ -58,12 +58,12 @@ This how the Peeragogy Accelerator explains its purpose and main characteristics
 
 We will do this by investing time and energy, rather than money, building a distributed community of peer learners, and a strongly vetted collection of best practices. Our project complements others’ work on sites like Wikiversity and P2PU, but with an applied flavor. It is somewhat similar to Y Combinator and other start-up accelerators or incubators, but we’re doing it the commons based peer production way.
 
-Four stages are suggested: 
+**Four stages** are suggested: 
 
-1) Set the initial challenge and build a framework for accountability among participants. (1-3 weeks)
-2) Bring in other people to support your shared goals, and make the work more fun too. (1-2 weeks)
-3) Solidifying your work plan and learning strategy together with concrete measures for ‘success’ to move the project forward. (1-3 weeks)
-4) Wrap up the project with a critical assessment of progress and directions for future work.
+1. Set the initial challenge and build a framework for accountability among participants. (1-3 weeks)
+2. Bring in other people to support your shared goals, and make the work more fun too. (1-2 weeks)
+3. Solidifying your work plan and learning strategy together with concrete measures for ‘success’ to move the project forward. (1-3 weeks)
+4. Wrap up the project with a critical assessment of progress and directions for future work.
 
 Personally I would add a specific methodology: [Lean Canvas](https://leanstack.com/leancanvas).  
 
@@ -72,4 +72,19 @@ Personally I would add a specific methodology: [Lean Canvas](https://leanstack.c
 Lean Canvas solves this problem using a 1-page business model that takes under 20 minutes to create.
 
 Search for "Lean Canvas" to find a wealth of tutorials. 
+
+## Incubator
+
+A business incubator is a company that helps new and startup companies to develop by providing services such as management training or office space. (Wikipedia)
+
+In our case it could be Metacaugs providing a more formal structure (that of a non-profit or foundation) for fledgling projects needing
+not only peer2peer inspiration and advice but also a formal identity in order to present projects, participate in competitions etc. 
+
+As of yet Metacaugs itself has no formal identity, but we could consider changing that. 
+
+## Conclusion
+
+Metacougs is in practice evolving into the direction of an accelerator, maybe an incubator. This would be a great way to continue the
+work done by Howard Rheingold and his co-learners. The diversity of the Rheingold-alumni made it  until now difficult to leverage the 
+power of the network, but using Slack as our main communication hub and adopting an accelerator methodology, this could change for the better. 
 
