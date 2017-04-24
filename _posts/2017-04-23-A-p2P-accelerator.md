@@ -27,7 +27,7 @@ However, **we do lots of others things** - related, but different and 'owned' by
 
 Qiark succesfully raised money on Crowdcube. 
 
-- The mindmapping tool [Metamaps.cc](https://metamaps.cc/). 
+- The concept-mapping tool [Metamaps.cc](https://metamaps.cc/). 
 
 >a free and open source platform that supports real-time sense-making, distributed collaboration, and the creative intelligence of individuals, organizations and communities. We are currently in an invite-only beta.
 
