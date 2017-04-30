@@ -24,7 +24,7 @@ I once used the Lean Canvas method during a conference, where it was used in sma
 the canvas on sheets of paper. **In this case we used the interactive [online tool Canvanizer](https://canvanizer.com/) to do the same: it makes it easy to 
 fill in the canvas collaboratively by writing and attaching virtual post-it notes.**
 
-Our little exercise made me believe even more firmly that Metacaugs can act as a [kind of accelerator](https://metacaugs.github.io/2017/04/23/A-p2P-accelerator/) for ideas and projects. We're proud use our peer-to-peer learning methods for projects such as Peeragogy, Metamaps and QIARK while also being a "salon" where we have slow and in-depth discussions of books about the accelerating changes impacting our societies. 
+Our little exercise made me believe even more firmly that Metacaugs can act as a [kind of accelerator](https://metacaugs.github.io/2017/04/23/A-p2P-accelerator/) for ideas and projects. We're proud to use our peer-to-peer learning methods for projects such as [Peeragogy](http://peeragogy.github.io/), [Metamaps](https://metamaps.cc/) and [QIARK](https://www.qiark.com/) while also being a "salon" where we have slow and in-depth discussions of books about the accelerating changes impacting our societies. 
 
 
 
