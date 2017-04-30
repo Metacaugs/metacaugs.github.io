@@ -21,8 +21,8 @@ We got some great insights applying this method. We realized we lack metrics abo
 restructuring the book into smaller booklets, using interactive gaming concepts? Making it far more visual? 
 
 I once used the Lean Canvas method during a conference, where it was used in small teams sitting physically together filling in
-the canvas on sheets of paper. In this case we used the interactive [online tool Canvanizer](https://canvanizer.com/) to do the same: it makes it easy to 
-fill in the canvas collaboratively by writing and attaching virtual post-it notes. 
+the canvas on sheets of paper. **In this case we used the interactive [online tool Canvanizer](https://canvanizer.com/) to do the same: it makes it easy to 
+fill in the canvas collaboratively by writing and attaching virtual post-it notes.**
 
 
 
