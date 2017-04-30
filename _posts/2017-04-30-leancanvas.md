@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lean Canvas"
+title: "Lean Canvas"
 categories: Blog-30
 tags: accelerator start-ups
 author: Roland
